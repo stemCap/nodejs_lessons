@@ -11,5 +11,5 @@ Go to the official [node.js](https://nodejs.org) website and download the latest
 3. Client Fetch
 4. Messaging Board App with RESTful API and Client
 5. Discord bot
-6. Multiplayer game with socket.js
+6. Multiplayer game with socket.io
 7. more stuff
